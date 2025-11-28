@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+int main() {
+   int p,l,k,Ls;
+   cout<<"panjang = "; cin>>p;
+   cout<<lebar    = "; cin>>l;
+   Ls=p*l;
+   k2*(p+l);
+   cout<<luas = "<<Ls<<endl;
+   cout<<"keliling = "<<k;
+   }
+  
